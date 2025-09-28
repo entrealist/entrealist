@@ -1,4 +1,4 @@
-- @Entrealist, mostly known as [Content hidden due to community policy]
+- @Entrealist, mostly known as [content is hidden due to community policy]
 
 <!---
 entrealist/entrealist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
